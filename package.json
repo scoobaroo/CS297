@@ -1,0 +1,25 @@
+{
+  "name": "cryptocurrency_arbitrage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scoobaroo/CS297.git"
+  },
+  "author": "eric han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scoobaroo/CS297/issues"
+  },
+  "homepage": "https://github.com/scoobaroo/CS297#readme",
+  "dependencies": {
+    "fp": "^0.1.0",
+    "prettyjson": "^1.2.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
